@@ -1,11 +1,11 @@
 # flask
 It contains a sample API based web service using flask. It also contains sample python code that calls this service.
 
-    ## getscore.py
+## getscore.py
     It is flask based service. It implements a couple of RESTful APIs. It runs the flask server on port 8080 and the 
                 public ip address of the machine.
                 
-    ## call.py
+## call.py
     It is sample python code that calls the above service, gets the results and prints them.
 
 # lambda_function
