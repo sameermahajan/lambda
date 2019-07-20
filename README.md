@@ -14,5 +14,4 @@ It contains a sample lambda function that calls above service.
 # lambda_invoke
 It contains sample python code that invokes above lambda function.
 
-    ## invoke.py
-    It invokes the above lambda function synchronously using boto3 library, gets the results and prints them
+- **invoke.py:** It invokes the above lambda function synchronously using boto3 library, gets the results and prints them
